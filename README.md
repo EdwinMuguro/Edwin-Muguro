@@ -12,8 +12,6 @@
 - SQL
 - Java
 
-## Current Projects
-
 ## How to Reach Me
 - Email: edwinmuguro3@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edwin-kamau-9303471b8?
